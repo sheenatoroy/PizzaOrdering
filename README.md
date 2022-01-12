@@ -1,2 +1,2 @@
 # PizzaOrdering
-# Basic Pizza Ordering System using GUI java
+Basic Pizza Ordering System using GUI java
